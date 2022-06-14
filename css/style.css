@@ -3,3 +3,36 @@
     padding: 0;
     box-sizing: border-box;
 }
+body {
+    background-image: url(../images/tim-arterbury-VkwRmha1_tI-unsplash.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.top-text {
+    text-align: center;
+    margin: 3.8em 0 0 19em;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 2.1vw;
+    background: -webkit-linear-gradient(rgb(10, 33, 62), rgb(177, 0, 62));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.project-list {
+    margin-top: 1em;
+    list-style-type: none;
+}
+.project-link {
+    text-decoration: none;
+    color: rgb(48, 48, 48);
+}
+.project-list li {
+    margin: 0 0 0 56em;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 1vw;
+}
+
+.project-link:hover {
+    color: tomato;
+}
+
