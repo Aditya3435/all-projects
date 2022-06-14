@@ -6,7 +6,7 @@
 body {
     background-image: url(../images/tim-arterbury-VkwRmha1_tI-unsplash.jpg);
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size:cover;
 }
 
 .top-text {
@@ -35,4 +35,5 @@ body {
 .project-link:hover {
     color: tomato;
 }
+
 
